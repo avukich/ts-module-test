@@ -1,0 +1,23 @@
+{
+  "name": "ts-module-test",
+  "version": "1.0.0",
+  "description": "simple test of making a TypeScript module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avukich/ts-module-test.git"
+  },
+  "keywords": [],
+  "author": "Adam Vukich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avukich/ts-module-test/issues"
+  },
+  "homepage": "https://github.com/avukich/ts-module-test#readme",
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
